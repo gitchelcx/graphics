@@ -1,8 +1,0 @@
-{
-  "OutputFoldersPerTargetSystem": {
-    "Local Machine": [
-      "proj01_scaffold\\out\\build\\x64-Debug",
-      "proj01_scaffold\\out\\install\\x64-Debug"
-    ]
-  }
-}
